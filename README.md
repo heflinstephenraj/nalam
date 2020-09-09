@@ -3,7 +3,7 @@ Nalam is a Healthcare Chatbot. It is developed to make a diagnosis and to get de
 
 Nalam is developed on IBM Watson Assistant, IBM Cloud Functions and ApiMedic.
 
-Checkout the demo at https://youtu.be/KBcc135ri4Q
+Checkout the demo at https://youtu.be/pGBOYl5rSD8
 
 Step 1: Provision your IBM Watson Assistant service and Upload the "Nalam-Skills.json" to your IBM Watson Assistant service's dialogue skill.
 
